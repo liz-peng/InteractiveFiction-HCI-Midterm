@@ -1,3 +1,3 @@
-#Interactive fiction
-Course name: Immersive Human Computer Interaction (midterm project)
+# Interactive fiction 
+Course: Immersive Human Computer Interaction (midterm project) 
 Tool: Twine
